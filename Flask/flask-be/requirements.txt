@@ -1,0 +1,13 @@
+Flask==2.3.2
+Flask_Cors==3.0.10
+gevent==22.10.2
+keras==2.12.0
+keras_facenet==0.3.2
+numpy==1.23.5
+opencv_python==4.7.0.72
+Pillow==9.4.0
+python-dotenv==1.0.0
+scipy
+matplotlib
+scikit-learn
+tensorflow
